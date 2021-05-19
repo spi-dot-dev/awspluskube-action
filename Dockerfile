@@ -1,7 +1,5 @@
 FROM debian:buster as awspluskube
 
-LABEL maintainer "Lemonaid Health Engineering <opensource@lemonaid.com>"
-
 # Install required system packages and dependencies
 ADD ./install_packages /install_packages
 RUN chmod +x /install_packages
