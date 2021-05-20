@@ -1,4 +1,4 @@
-name: 'AWS cli and kubectl for AWS EKS'
+name: 'AWS CLI plus Kubectl'
 author: Lemonaid Health
 description: Action for running kubectl commands to interact with EKS cluster
 branding:
