@@ -2,7 +2,7 @@
 
 #vars
 IMAGENAME=awspluskube
-REPO=lemonaidhealth
+REPO=spi-dot-dev
 IMAGEFULLNAME=${REPO}/${IMAGENAME}:latest
 
 .PHONY: \build push all
